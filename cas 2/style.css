@@ -1,0 +1,39 @@
+.bg-image-1{
+   background-image: url(./img1.jpg);
+height: 100vh;
+background-repeat: no-repeat;
+}
+.c-white{
+    color: white;
+}
+.fwight-bold{
+font-weight: bold;
+}
+.bc-lightgrey{
+    background-color: gainsboro;
+}
+
+@media (min-width: 1024px){
+   .main-title{ font-size: 40px;}
+}
+.bc-lightgrey{
+    background-color: gainsboro;
+}
+.bg-image-2{
+    background-image: url(./img2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-3{
+    background-image: url(./img3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-4{
+    background-image: url(./img4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
